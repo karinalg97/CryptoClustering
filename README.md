@@ -3,7 +3,7 @@
 •	Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 
 •	Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
-  o	The first five rows of the scaled DataFrame should appear as follows:
+    o	The first five rows of the scaled DataFrame should appear as follows:
 
 ![image](https://github.com/karinalg97/CryptoClustering/assets/149729653/4bc7b844-5ff0-42bd-857a-8e5dfc520aed)
 
